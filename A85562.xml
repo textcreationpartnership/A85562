@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and blovdy fight at Dublin in Ireland, between the King of Scots army, and the Parliaments; upon the landing of three thousand horse and foot of the Lord Governour Cromwel's forces, under the command of Col. Reynolds, Col. Moor, Col. Venable, Col. Hunks, and Major Elliot. With the particulars thereof, and three thousand routed, taken, killed, and dispersed; the beating up of 7 guards, seizing of 8 pieces of ordnance, and burning of the tents and hutches. Also, a new rising in the west, and forty sayl of the Princes ships come to the western coast, with a resolution to engage against the Parliament of England; together with a copy of the royalists prayer for the King of Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85562</idno>
+            <idno type="STC">Wing G1636</idno>
+            <idno type="STC">Thomason E566_19</idno>
+            <idno type="STC">ESTC R206207</idno>
+            <idno type="EEBO-CITATION">99865380</idno>
+            <idno type="PROQUEST">99865380</idno>
+            <idno type="VID">117620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117620)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E566[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and blovdy fight at Dublin in Ireland, between the King of Scots army, and the Parliaments; upon the landing of three thousand horse and foot of the Lord Governour Cromwel's forces, under the command of Col. Reynolds, Col. Moor, Col. Venable, Col. Hunks, and Major Elliot. With the particulars thereof, and three thousand routed, taken, killed, and dispersed; the beating up of 7 guards, seizing of 8 pieces of ordnance, and burning of the tents and hutches. Also, a new rising in the west, and forty sayl of the Princes ships come to the western coast, with a resolution to engage against the Parliament of England; together with a copy of the royalists prayer for the King of Scotland.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLIX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Col. Reynolds .. Major Elliot" bracketed together on the titlepage.</note>
+                  <note>Annotation on Thomason copy: "Aug: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117620:1" rendition="simple:additions"/>
+            <p>A Great and BLOVDY FIGHT AT Dublin in Ireland, BETWEEN The KING of <hi>Scots</hi> Army, and the <hi>Parliaments;</hi> UPON The landing of three thouſand Horſe and Foot of the Lord Governour <hi>Cromwel</hi>'s Forces, under the Command Of
+<list>
+                  <item>Col. <hi>Reynolds,</hi>
+                  </item>
+                  <item>Col. <hi>Moor,</hi>
+                  </item>
+                  <item>Col. <hi>Venable,</hi>
+                  </item>
+                  <item>Col. <hi>Hanks,</hi> And</item>
+                  <item>Major <hi>Elliot.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>WITH</hi> The particulars thereof, and three thouſand routed taken, killed, and diſ<g ref="char:EOLhyphen"/>perſed; the beating up of 7 Guards, ſeizing of 8 pieces of Ordnance, and burning of the Tents and Hutches.</p>
+            <p>
+               <hi>ALSO,</hi> A new Riſing in the Weſt, and forty Sayl of the Princes Ships come to the Weſtern Coaſt, with a Reſolution to engage againſt the Par<g ref="char:EOLhyphen"/>liament of England; together with a Copy of the Royaliſts Prayer for the KING of SCOTLAND.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. W.</hi> MDCXLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117620:2"/>
+            <pb n="1" facs="tcp:117620:2"/>
+            <head>A GREAT FIGHT IN IRELAND Upon the landing of 3000 Horſe and Foot of the Lord L. <hi>Cromwels</hi> Forces at <hi>Dublin,</hi> under the command of Col. <hi>Reynolds,</hi> Col. <hi>Moor,</hi> Col. <hi>Venable,</hi> Col. <hi>Hunk,</hi> and Major <hi>Elliot,</hi> with the particulars of the fight, and number killed.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe Lord Governour of Ireland is come hither, in order to his tranſportation; We are over joyed to ſee him, and his Armies readineſſe to advance ſo u<g ref="char:EOLhyphen"/>nanimouſly for that ſervice; ſome forces go off, but the number not ſo many as may be reported: Monies is the ex<g ref="char:EOLhyphen"/>pectation of the Souldiery, and doubtleſſe the Nerves and
+<pb n="2" facs="tcp:117620:3"/> Sinews to expedite that ſervice. Three thouſand of the for<g ref="char:EOLhyphen"/>ces deſigned, are landed in ſafety at Dublin; but upon their firſt attempt to ſet footing on the Iriſh Soyl, they were welcomed by the Sons of <hi>Mars</hi> with a reſounding eccho from the Enemy, who gave them ſeveral Vollies at their firſt greeting, as they came down the Harbour: yet not<g ref="char:EOLhyphen"/>withſtanding their ſudden On-ſet, the undanted Engliſh Heroes ſoon forced their p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſage by them, anſwering them with great gallantry, and fiting to the laſt minute of their landing; which done, after ſome reſpite of time, it was una<g ref="char:EOLhyphen"/>nimouſly reſolved, that the next morning early they would give them a ſalley, and like <hi>Alexanders diſciplin'd Martia<g ref="char:EOLhyphen"/>lists</hi> put the ſame in ſpeedy execution; for about three of of the clock on Friday morning laſt (being two days after their landing) Col. <hi>Reynolds,</hi> Col. <hi>Moor,</hi> and Col. <hi>Venable,</hi> ac<g ref="char:EOLhyphen"/>companied by Lieu. Col. <hi>Wyborough (a true stamp of Chi<g ref="char:EOLhyphen"/>valry, and well experien'd in the Iriſh Soyl)</hi> with 1500 Foot and 500 horſe marched forth of the City in a very privat poſture, cut off 9 Centinels and perdewes, without giving any allarum to the Enemy, advanced within half piſtoll ſhot of their Works, before they were diſcovered, fell in a<g ref="char:EOLhyphen"/>mongſt them, beat up 7 Guards, killed many, took about 200 priſoners, and routed the Marq. of Ormonds Brigade, conſiſting of 3000 Foot, forced them to a diſorderly re<g ref="char:EOLhyphen"/>treat, burned their Tents and Hutches, and (as it is ſaid) took 8 pieces of Ordnance, returned tryumphantly into the Ci<g ref="char:EOLhyphen"/>ty, with the ſoffe of 30 men. During this action col. <hi>Hunks</hi> and Major <hi>Elliot</hi> made good another paſſage, fighting the enemy, and performing very gallant ſervice. Col. Jones was likewiſe in readineſſe with a Reſerve Ormond is drawn to a further diſtance from the City: <hi>the Lord Governour is hastning over, and many Regiments of Horſe and Poot are croſſing the Neptune Seas.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Tinby <date>July 28. 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="3" facs="tcp:117620:3"/>
+            <p>Letters from the Navy repreſents the remarkable action of Capt Popp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the manner thus. Sir, Since my advance from England, I went convoy over for Rotterdam with five veſſells belonging to Yarmouth, being richly laden with Merchants goods, and on Satturday laſt I delivered them all ſafe at the Brill, and afterwards I ſtered to Sea all night, and about three of the clock in the morning, I ſaw a ſale which came cloſe by me (within musket ſhot he ſtan<g ref="char:EOLhyphen"/>ding to the Southward, and I to the Northward, we paſsed on by the other, without much taking notice; but when I diſcovered him, we ſet ſale towards, and five hours chaſe I had him at my mery, but at firſt he fought with me ſtoutly, untill I had killed and wounded him 14 men, and then he asked quarter, he had but five Guns, and one murderer, and fifty odde men.</p>
+            <p>There came further intelligence to the parliament, out of Bedfordſhire, that one Sunday laſt a Miniſter was appre<g ref="char:EOLhyphen"/>hended, for incerting this enſuing paſſage in his prayer VVe pray unto thee for thy truths protectour, thy young, ancient Catholick faiths defender, thy Servant our Sove<g ref="char:EOLhyphen"/>raign: defend him in it; preſerve him from it: be good to them that have the tuition of him, that with alacrity and cheerfulneſſe, he may at all times, but eſpecially in the need<g ref="char:EOLhyphen"/>full time of trouble defend and provide for the fatherleſſe and VViddows. Son of God we beſeech thee to heare us, Moreover, that it may pleaſe to thee to ſtrengthen ſuch as do ſtand with him, to comfort and help the weak hearted for him, to raiſe up (if it be poſſible) them that are fallen from him: and finally to beat down Sathan under his and our feet.</p>
+            <p>From <hi>Jreland further thus: Severall attempts hath bin lately made by the Enemy; as appears by theſe enſuing Occur<g ref="char:EOLhyphen"/>rences, but not any ſince the coming in of the additionall For<g ref="char:EOLhyphen"/>ces.</hi>
+            </p>
+            <pb n="4" facs="tcp:117620:4"/>
+            <p>Since the enemies receipt of the intelligence of the Lord Lieutenant <hi>Crumwels</hi> deſignment for this bleeding City, they have ſomewhat awakened us with ſtronger allarms, and (as we hear) have entred into Proteſtation, <hi>to live and die, stand and fall together, and to fight it out to the laſt man,</hi> and that upon receipt of the foreſaid intelligence, <hi>Ormond</hi> called a Councell of Officers, at the head quarters neer Fingles, the reſult was, whether they ſhould prepare for a ſtorm, be<g ref="char:EOLhyphen"/>fore his Lordſhips landing, or whether they ſhould begin the City, ſtreighten other Gariſons, take in what they could and then randezvouz and draw into a Body, and give him battell at his landing: Upon mature deliberation thereon, it was unanimoſly declared by moſt of that Popiſh and Pre<g ref="char:EOLhyphen"/>laticall faction, That if he ſet footing there they wold fight him; in the mean time they would uſe their utmoſt endea<g ref="char:EOLhyphen"/>vours for the reducing of thoſe Garriſons which the Par<g ref="char:EOLhyphen"/>liament had in poſſeſſion.</p>
+            <p>But the thing that our Souldiery are moſt doubtfull and dubious of, is, that they fear the enemy will not give them a field upon the additionall forces landing, but that they wil rather betake themſelves to the Bogs and Woods.</p>
+            <p>On Thu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſday morning laſt, a party of the Marq. of Ormonds horſe and foot laced our frontier Guards, kee<g ref="char:EOLhyphen"/>ping a great careering up &amp; down neer the City Wals, and making four or five deſperate attempts within Piſtol ſhot of our Line, Spurs, and Sconces, which continued for the ſpace of half an hour; till at the laſt Capt. <hi>Freeman</hi> (Com<g ref="char:EOLhyphen"/>mander in chief of the new Fort) made a ſalley out with a party of horſe and foot, who placed the Muſquetiers in an obſcure trench, for an Ambuſcado; he himſelf being the Coy, for the calling in and enſnaring of the adverſe party; but upon his firſt advance towards them with his horſe, he found it a Work very full of difficulty, by reaſon that they had uſed the like point of poliep: However, he reſolved to
+<pb n="5" facs="tcp:117620:4"/> diſpute the place, and thereupon divided his horſe (being 60 in number) into two parties, he himſelf commanding the one, and Cornet Jackſon the other; Capt. <hi>Freeman</hi> charged the Van of the Enemies Forlorn, Cornet <hi>Tomſon</hi> flanked them, and upon their firſt charge exchanged ground, with the loſſe of three men on both ſides; but upon their preſent wheeling, both parties received each other with a ſecond deſperate Onſet, who with great courage &amp; reſolution kept their ſtations, diſputing the place with great gallaniry; but at laſt our men being overpowred (by the coming on of a freſh ſupply of horſe) were forced to embrace an honour<g ref="char:EOLunhyphen"/>rable retreat; the enemy purſued to the very turn-pikes, where they were ſoon welcomed by the ſons of <hi>Mars,</hi> both from the mouth of the Canon and Muſquet, at which Vol<g ref="char:EOLhyphen"/>ley, 7 of them were forced to yeeld obedience to the earth, w<hi rend="sup">ch</hi> cauſed the enemy to deſert further diſpute or engage<g ref="char:EOLhyphen"/>ment, leaving dead and wounded upon the place about 27. of our party five ſlain and two wounded.</p>
+            <p>By Letters further from Dublin it is advertized, that the Marq. of <hi>Ormond,</hi> and the L. <hi>Inchiquin</hi> with 20000 Horſe and Foot, have intrenched themſelves (in many places) within Muſquet ſhot of the Walls, and by their ſtrong allarums (being very reſolved, ſince the taking of Tredah) keeps us in continuall action: the laſt night their Pioneers wrought exceeding hard, and raiſed an half Moon within musket ſhot of our Out-works, where was placed about 400 musketiers, and four pieces of Ordnance; it was con<g ref="char:EOLhyphen"/>trived very artificially and ſtrong, with a running Trench from their frontier incampings, which ſecures their men from great annoyance of our round ſhot: this morning we ſallyed out upon them, with a reſolution to beat them off from the ſaid Fort; but finding too much oppoſition re<g ref="char:EOLhyphen"/>treated to our, Redout, which was within Piſtoll ſhot there<g ref="char:EOLhyphen"/>of;
+<pb n="6" facs="tcp:117620:5"/> about 4 of the clock ſeverall parties of horſe and foot were drawn forth on both ſides, who engaged each other, and after a ſharp conflict diſputed with great gallantry the enemy retreated, and having a Reſerve ready at hand our men durſt not embrace the purſuit, but returned Victors with 17 priſoners, &amp; left dead and wounded upon the place about 15 with the loſſe of 14 men, which the enemy in the night time ſet off and buryed.</p>
+            <p>There came a true relation of the deſign againſt Wey<g ref="char:EOLhyphen"/>mouth and Portland, ſent up to the Councell of State by a Meſſenger from the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>overnour of VVeymouth, viz.</p>
+            <p>The deſign was laid ſo, as that with four hundred men Jerſey Iſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, and ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x hundred from France, having correſ<g ref="char:EOLhyphen"/>pondence with a party in the County o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dorſets and other places nea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they might ſecure VVeymouth, and the Iſle of Portland for the uſe and ſervice of Charles the ſecond; the perſons that were by a ſpeciall providence apprehen<g ref="char:EOLhyphen"/>ded in executing this cruell deſigne, was one called King Gardner, a man who ſaith he was ever true to the firſt Charles, and reſolves to be as conſtant for the ſecond; there were alſo two of the Garriſon Souldiers, one Mortimor and Thorny, two Iſlanders, the ones name But the other Roberts, and one Mr. Gallot with half a dozen more, the Iſlanders do publickly abhominate the deſign, and the per<g ref="char:EOLhyphen"/>ſons guilty thereof earneſtly deſiring judgement to be exe<g ref="char:EOLhyphen"/>cuted therein. This plot was further manifeſted on Satur<g ref="char:EOLhyphen"/>day laſt, where at leaſt fourty ſmall boats did attend the Iſle of Portland, but what will be the Iſſue of it a little time will diſcover, onely I conclude, that Gods work ſhall ſtand againſt all oppoſition.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
